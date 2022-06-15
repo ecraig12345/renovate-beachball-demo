@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "{{{commitMessage}}}",
+  "packageName": "@renovate-beachball-demo/pkg2",
+  "email": "renovate@whitesourcesoftware.com",
+  "dependentChangeType": "patch"
+}
